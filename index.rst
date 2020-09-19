@@ -12,5 +12,4 @@ Welcome to Web Design and Development - documentation!
    
    file1.md
    file2.md
-
    
