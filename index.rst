@@ -11,5 +11,6 @@ Welcome to Web Design and Development - documentation!
    :numbered:
    
    file1.md
+   file2.md
 
    
