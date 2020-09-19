@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
-copyright = '2020, APSSDC'
-author = 'APSSDC'
+project = 'Web Design and Development'
+copyright = '2020, Sudheshna'
+author = 'Sudheshna'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
